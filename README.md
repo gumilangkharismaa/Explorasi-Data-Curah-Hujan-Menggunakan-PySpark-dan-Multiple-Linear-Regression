@@ -66,4 +66,3 @@ Target (label) yang diprediksi:
 
 ## Kesimpulan
 - Model regresi linear berganda menunjukkan fit yang cukup baik terhadap data historis (R² = 0.87), sehingga mampu menangkap hubungan antara fitur dan curah hujan.
-- Model saat ini tidak digunakan untuk prediksi masa depan, tetapi dapat menjadi dasar untuk eksperimen prediksi jika data input baru tersedia.
